@@ -1,4 +1,3 @@
-[![MasterHead](https://images.pexels.com/photos/276452/pexels-photo-276452.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)]
 <h1 align="center">Hi 👋, I'm Prudhvi</h1>
 <h3 align="center">A Passionate Full Stack Developer | AI/ML Engineer</h3>
 
