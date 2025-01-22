@@ -1,4 +1,4 @@
-![MasterHead](https://plus.unsplash.com/premium_photo-1661877737564-3dfd7282efcb?q=80&w=1800&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+![MasterHead](https://i.pinimg.com/originals/d4/81/f3/d481f3c72e283309071f79e01b05c06d.gif)
 <h1 align="center">Hi 👋, I'm Prudhvi</h1>
 <h3 align="center">A Passionate Full Stack Developer | AI/ML Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?t=st=1737568891~exp=1737572491~hmac=cfa0e4515b3ca51103dc2e5a39b5d327c7883698b828eba723d18943aa2d8d18&w=996" />
