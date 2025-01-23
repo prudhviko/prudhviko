@@ -15,7 +15,6 @@
 
 - 📄 Know about my experiences [https://prudhviko.github.io/Portfolio/](https://prudhviko.github.io/Portfolio/)
 
-- ⚡ Fun fact **Fake It Until You Make It.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
