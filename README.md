@@ -1,21 +1,6 @@
 <h1 align="center">Hi 👋, I'm Prudhvi</h1>
 <h3 align="center">A Passionate Full Stack Developer | AI/ML Engineer</h3>
 
-
-
-- 🔭 I’m currently working on [BlogApp](https://github.com/prudhviko/BlogApp)
-
-- 🌱 I’m currently learning **How To Build Ai Agents**
-
-- 👨‍💻 All of my projects are available at [https://prudhviko.github.io/Portfolio/](https://prudhviko.github.io/Portfolio/)
-
-- 💬 Ask me about **react, typescript, nodejs, python**
-
-- 📫 How to reach me **prudhvikovagana@gmail.com**
-
-- 📄 Know about my experiences [https://prudhviko.github.io/Portfolio/](https://prudhviko.github.io/Portfolio/)
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/prudhviraj-kovagana/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/prudhviraj-kovagana/" height="30" width="40" /></a>
